@@ -2,7 +2,9 @@
 
 ## ACM ETRA 2026 (Eye Tracking Research & Applications)
 - **Date:** June 1–4, 2026
-- **Venue:** Marrakesh, Morocco (exact venue/hotel TBA as of March 2026)
+- **Venue:** Marrakesh, Morocco (exact venue not yet officially confirmed)
+- **Likely venue:** Palais des Congrès de Marrakech / Mövenpick Hotel Mansour Eddahbi, Avenue Mohammed VI, L'Hivernage
+- **Contact:** general.etra2026@acm.org
 - **Website:** https://etra.acm.org/2026/
 
 ## ETRA Conference on Tyre Recycling 2026
